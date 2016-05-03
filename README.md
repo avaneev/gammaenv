@@ -12,7 +12,7 @@ augmentation makes the shape slightly steeper and in the end allows the
 algorithm to follow it closer. The name "gammaenv" relates to this
 algorithm's version.
 
-The algorithm's topology is based on a set of 5 "leaky integrators" (the
+The algorithm's topology is based on 5 sets of "leaky integrators" (the
 simplest form of 1st order low-pass filters). Each set (except the 5th) use
 4 low-pass filters in series. Outputs of all sets are then simply
 summed/subtracted to produce the final result. The topology is numerically
