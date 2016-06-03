@@ -38,3 +38,10 @@ unpredictably).
 Compile and run the testtable.cpp to produce a tab-delimited table of curves
 at various delay values. Also use this source as an example of envelope
 generator setup and use procedure.
+
+## Users ##
+This library is used by:
+
+Please drop me a note at aleksey.vaneev@gmail.com and I will include a link to
+your product to the list of users, whether this is an audio DSP or industrial
+automation project, or something else.
