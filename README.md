@@ -39,6 +39,10 @@ Compile and run the testtable.cpp to produce a tab-delimited table of curves
 at various delay values. Also use this source as an example of envelope
 generator setup and use procedure.
 
+## Curves ##
+
+![Curves chart](https://github.com/avaneev/gammaenv/blob/master/curves.png)
+
 ## Users ##
 This library is used by:
 
